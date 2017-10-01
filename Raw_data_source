@@ -1,0 +1,13 @@
+# Alzheimers_RNA_seq_data https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4698155/ 
+# GEO Series accession number GSE67333
+# 4 late onset Alzheimer's diseas (LOAD) and 4 age-matched controls.
+  LOAD1 SRR1931812
+  LAOD2 SRR1931813
+  LAOD3 SRR1931814
+  LOAD4 SRR1931815
+  CTRL1 SRR1931816
+  CTRL2 SRR1931817
+  CTRL3 SRR1931818
+  CTRL4 SRR1931819
+  
+ 
