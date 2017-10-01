@@ -1,0 +1,21 @@
+# SRA Toolkit
+download: https://www.ncbi.nlm.nih.gov/sra/docs/toolkitsoft/
+          adding path: export PATH="$HOME/opt/bin:$PATH" _Linux
+                      http://osxdaily.com/2014/08/14/add-new-path-to-path-command-line/   _Mac
+                      http://www.macgasm.net/2008/04/10/adding-a-new-location-to-your-path-variable-within-terminal/  _Mac
+~ command line:  https://www.ncbi.nlm.nih.gov/books/NBK158900/
+fastq-dump accession.No. --fasta
+
+# Bowtie2
+manual:http://bowtie-bio.sourceforge.net/bowtie2/manual.shtml
+~command line: mkdir human_genome_index
+               bowtie2-build human_genome.fa human_genome_index
+
+# tophat 
+manual:https://ccb.jhu.edu/software/tophat/manual.shtml
+~command line: tophat bowtie_index reads1.fq,reads2.fq
+               (tophat human_genome_index/human_genome_index reads.fasta)
+
+# Samtools
+manual:http://www.htslib.org/doc/samtools-1.2.html
+
