@@ -9,5 +9,7 @@
   CTRL2 SRR1931817
   CTRL3 SRR1931818
   CTRL4 SRR1931819
-  
+# Human being genome download
+  ftp://ftp.ensembl.org/pub/release-90/fasta/homo_sapiens/dna/
+  http://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/
  
