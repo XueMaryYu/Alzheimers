@@ -13,7 +13,7 @@ manual:http://bowtie-bio.sourceforge.net/bowtie2/manual.shtml
 
 # tophat 
 manual:https://ccb.jhu.edu/software/tophat/manual.shtml
-~command line: tophat bowtie_index reads1.fq,reads2.fq
+~command line: tophat -p 20 bowtie_index reads1.fq,reads2.fq
                (tophat human_genome_index/human_genome_index reads.fasta)
 
 # Samtools
