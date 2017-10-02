@@ -1,6 +1,8 @@
 # SRA Toolkit
 download: https://www.ncbi.nlm.nih.gov/sra/docs/toolkitsoft/
-          adding path: export PATH="$HOME/opt/bin:$PATH" _Linux
+          adding path:echo $PATH _print out path
+                      export PATH="$HOME/opt/bin:$PATH" _Linux
+                      export PATH=$PATH:/Users /Zhu\ Lab/Dowloads/software _Mac
                       http://osxdaily.com/2014/08/14/add-new-path-to-path-command-line/   _Mac
                       http://www.macgasm.net/2008/04/10/adding-a-new-location-to-your-path-variable-within-terminal/  _Mac
 ~ command line:  https://www.ncbi.nlm.nih.gov/books/NBK158900/
