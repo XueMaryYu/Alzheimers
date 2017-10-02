@@ -18,4 +18,6 @@ manual:https://ccb.jhu.edu/software/tophat/manual.shtml
 
 # Samtools
 manual:http://www.htslib.org/doc/samtools-1.2.html
+~command line: samtools fasta file.bam
+               samtools fastq file.bam
 
