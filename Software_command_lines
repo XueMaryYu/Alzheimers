@@ -22,4 +22,10 @@ manual:https://ccb.jhu.edu/software/tophat/manual.shtml
 manual:http://www.htslib.org/doc/samtools-1.2.html
 ~command line: samtools fasta file.bam
                samtools fastq file.bam
+# Pavian 
+https://github.com/fbreitwieser/pavian
 
+# Centrifuge 
+http://www.ccb.jhu.edu/software/centrifuge/manual.shtml
+# MetaPhlan
+https://bitbucket.org/biobakery/biobakery/wiki/metaphlan2
